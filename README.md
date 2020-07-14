@@ -1,3 +1,6 @@
+# FORK
+ - Changes Status formate and symbols
+
 battery.vim
 ==============================================================================
 ![Version 0.2.0](https://img.shields.io/badge/version-0.2.0-yellow.svg?style=flat-square)
